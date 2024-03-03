@@ -1,4 +1,4 @@
-Fivem resource to nerf weapon damage Simply.
+# Fivem resource to nerf weapon damage Simply.
 
 To add More Weapon Nerf Damage Add This Code For Template.
 N_0x4757f00bc6323cfe(GetHashKey([Weapon spawn name]), 0.4)
